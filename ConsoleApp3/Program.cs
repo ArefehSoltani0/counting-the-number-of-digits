@@ -2,7 +2,7 @@
 {
     private static void Main(string[] args)
     {
-        //Console.WriteLine("Hello, World!");
+        Console.WriteLine("enter the number:");
         int d =int.Parse(Console.ReadLine());
         Console.WriteLine(count(d));
         Console.ReadKey();
